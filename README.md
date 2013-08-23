@@ -1,0 +1,4 @@
+MediaWiki
+=========
+
+Funcionalidades do MediaWiki
